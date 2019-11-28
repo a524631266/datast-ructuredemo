@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae020d46-ff36-4ac3-8532-9bc6af159fce" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/home/zhangll/bitsets/FirstUsing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/modules/jdk1.8.0_151/src.zip!/java/lang/StringBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-43">
+              <caret line="336" column="21" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/modules/jdk1.8.0_151/src.zip!/java/util/BitSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="71" column="71" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/home/zhangll/bitsets/FirstUsing.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="136" />
+    <option name="y" value="81" />
+    <option name="width" value="1144" />
+    <option name="height" value="635" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="28-11-2019">
+        <observation name="false" value="234.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="36.0" />
+        <observation name="false" value="198.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="28-11-2019">
+        <observation name="false" value="233.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="28-11-2019">
+        <observation name="0" value="94.0" />
+        <observation name="UNDEFINED" value="140.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="56.0" />
+        <observation name="true" value="145.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="106.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="106.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="106.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="164.0" />
+        <observation name="true" value="37.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="28-11-2019">
+        <observation name="false" value="209.0" />
+        <observation name="true" value="25.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="28-11-2019">
+        <observation name="NORMAL" value="202.0" />
+        <observation name="UNDEFINED" value="32.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="expected" value="69.0" />
+        <observation name="maybeExpected" value="3.0" />
+        <observation name="normal" value="121.0" />
+        <observation name="ofDefaultType" value="9.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="classNameOrGlobalStatic" value="24.0" />
+        <observation name="expectedTypeVariable" value="51.0" />
+        <observation name="normal" value="84.0" />
+        <observation name="probableKeyword" value="2.0" />
+        <observation name="variable" value="41.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="unknown" value="201.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="22.0" />
+        <observation name="null" value="177.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="unknown" value="201.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="68.0" />
+        <observation name="delegation" value="1.0" />
+        <observation name="normal" value="165.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="28-11-2019">
+        <observation name="cancelled" value="414.0" />
+        <observation name="explicitSelect" value="120.0" />
+        <observation name="typedSelect" value="114.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="28-11-2019">
+        <observation name="BASIC" value="286.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="28-11-2019">
+        <observation name="count" value="648.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="0.107066" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.077072" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="209.0" />
+        <observation name="average" value="-2.163265" />
+        <observation name="count" value="49.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-6.0" />
+        <observation name="variance" value="1.611806" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="average" value="-0.039702" />
+        <observation name="count" value="403.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.030482" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="0.304069" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="24.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="3.252631" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="-1098.271949" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1202.0" />
+        <observation name="variance" value="44084.249856" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="-0.004283" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.00298" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="168.578554" />
+        <observation name="count" value="401.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="17161.46106" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="1.157107" />
+        <observation name="count" value="401.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="6.472747" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="1.057357" />
+        <observation name="count" value="401.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.83934" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.927681" />
+        <observation name="count" value="401.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.690982" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="4.668094" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="22.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="7.142589" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="average" value="-0.029777" />
+        <observation name="count" value="403.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.024269" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="average" value="-39.662531" />
+        <observation name="count" value="403.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="30421.427994" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="32.0" />
+        <observation name="average" value="0.049628" />
+        <observation name="count" value="403.0" />
+        <observation name="max" value="10.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.603098" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="28-11-2019">
+        <observation name="UNDEFINED" value="184.0" />
+        <observation name="average" value="-3.363636" />
+        <observation name="count" value="99.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.790047" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="2374.042827" />
+        <observation name="count" value="467.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="15181151.189395" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="28-11-2019">
+        <observation name="0" value="106.0" />
+        <observation name="1" value="5.0" />
+        <observation name="10" value="3.0" />
+        <observation name="2" value="3.0" />
+        <observation name="24" value="1.0" />
+        <observation name="3" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="28-11-2019">
+        <observation name="total" value="93.0" />
+        <observation name="withMnemonics" value="10.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="28-11-2019">
+        <observation name="0" value="8.0" />
+        <observation name="1" value="19.0" />
+        <observation name="2" value="51.0" />
+        <observation name="3" value="28.0" />
+        <observation name="4" value="11.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="28-11-2019">
+        <observation name="average" value="320.918919" />
+        <observation name="count" value="185.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructByAlgritheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructByAlgritheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangll" type="462c0819:PsiDirectoryNode" />
+              <item name="bitsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstUsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.zhangll.bitsets.FirstUsing" />
+      <module name="datastructByAlgritheme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.zhangll.bitsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstUsing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae020d46-ff36-4ac3-8532-9bc6af159fce" name="Default Changelist" comment="" />
+      <created>1574944872288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574944872288</updated>
+      <workItem from="1574944877116" duration="9189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Learn" weight="0.32952693" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32861635" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37421384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/home/zhangll/bitsets/FirstUsing.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/zhangll/bitsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/modules/jdk1.8.0_151/src.zip!/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="71" column="71" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/modules/jdk1.8.0_151/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="336" column="21" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/zhangll/bitsets/FirstUsing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
